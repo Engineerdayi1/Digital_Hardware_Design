@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=Regulators.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Regulators.SchDoc|FileName=Zynq_JTAG_Programmer.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Regulators.SchDoc|FileName=Zynq_Power.SchDoc|SheetNumber=3
 Record=NoMainPathDocument|SourceDocument=Regulators.SchDoc|FileName=Input_Power.SchDoc|SheetNumber=1
