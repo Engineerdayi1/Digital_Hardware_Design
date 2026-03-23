@@ -134,6 +134,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMTXUAWR
 
+[Document6]
+DocumentPath=Zynq_PL.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VJTVJSUO
+
 [ProjectVariant1]
 UniqueID=2A8D5315-EE12-4997-9079-24EFC784C4D3
 Description=Assembly_Variant
